@@ -1,0 +1,12 @@
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\bin\Debug\net6.0\Base.Utility.deps.json
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\bin\Debug\net6.0\Base.Utility.dll
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\bin\Debug\net6.0\Base.Utility.pdb
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\Base.Utility.csproj.AssemblyReference.cache
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\Base.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\Base.Utility.AssemblyInfoInputs.cache
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\Base.Utility.AssemblyInfo.cs
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\Base.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\Base.Utility.dll
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\refint\Base.Utility.dll
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\Base.Utility.pdb
+C:\Users\Ridwanul\source\repos\Base\Base.Utility\obj\Debug\net6.0\ref\Base.Utility.dll
